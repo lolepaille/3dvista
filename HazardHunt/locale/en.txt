@@ -1,0 +1,97 @@
+#: locale=en
+
+## Action
+
+### URL
+WebFrame_8352CFCE_93F3_1ECF_41DC_EC56597DA23C.url = https://rmit.h5p.com/content/1292339439865699979/embed
+WebFrame_14EB8C21_0B20_8DB4_417A_0D779B27263F.url = https://rmit.h5p.com/content/1292362014057685379/embed
+WebFrame_83608680_93F3_0133_41D3_2F2DD1212C38.url = https://rmit.h5p.com/content/1292362059561311769/embed
+WebFrame_831436D1_9448_D67E_41E0_317184827028.url = https://rmit.h5p.com/content/1292362059561311769/embed
+WebFrame_82F76ECC_93F3_0133_41D0_1BCAEECB2BDD.url = https://rmit.h5p.com/content/1292362082993475309/embed
+WebFrame_617D3BEA_5475_70FA_41AF_D4D2B767AAA8.url = https://rmit.h5p.com/content/1292362319045149609/embed
+WebFrame_55A3593D_5FB5_115E_41B3_A507FD9CB50D.url = https://rmit.h5p.com/content/1292362319045149609/embed
+WebFrame_832996D7_9448_D662_41B0_C188C3919CCC.url = https://rmit.h5p.com/content/1292362319045149609/embed
+WebFrame_4A1332D8_56F8_2F17_41CF_6C8DE58598B7.url = https://rmit.h5p.com/content/1292362319045149609/embed
+WebFrame_76C48D06_56F8_3AFB_41C0_6CEE66F7B941.url = https://rmit.h5p.com/content/1292362319045149609/embed
+WebFrame_76C5DD04_56F8_3AFF_4177_00EB2357BB9A.url = https://rmit.h5p.com/content/1292362363790870499/embed
+WebFrame_4A1512D7_56F8_2F19_41B4_34E4446CEBE9.url = https://rmit.h5p.com/content/1292381537689753159/embed
+WebFrame_55A2A5CB_5FB7_313A_41CA_E6C89D7E3FA8.url = https://rmit.h5p.com/content/1292394507035938349/embed
+WebFrame_DCA0F745_C1CA_A530_41B1_3FD9B7DCD83A.url = https://rmit.h5p.com/content/1292412738057876839/embed
+
+## E-Learning
+
+### Question Screen
+quizQuestion_89CFD938_9FD3_0353_41A1_CD9E1CAE7F24.ok = OK
+
+### Report Screen
+quizScore_89F7F938_9FD3_0353_41D7_8900D56E66C3.title = - SCORE -
+quizScore_89F7F938_9FD3_0353_41D7_8900D56E66C3.completion = Completed
+quizScore_89F7F938_9FD3_0353_41D7_8900D56E66C3.questionsCorrect = Correct
+quizScore_89F7F938_9FD3_0353_41D7_8900D56E66C3.downloadCSV = Download .csv
+quizScore_89F7F938_9FD3_0353_41D7_8900D56E66C3.questionsIncorrect = Incorrect
+quizScore_89F7F938_9FD3_0353_41D7_8900D56E66C3.items = Items Found
+quizScore_89F7F938_9FD3_0353_41D7_8900D56E66C3.questions = Questions
+quizScore_89F7F938_9FD3_0353_41D7_8900D56E66C3.repeat = Repeat
+quizScore_89F7F938_9FD3_0353_41D7_8900D56E66C3.submitToLMS = Submit
+quizScore_89F7F938_9FD3_0353_41D7_8900D56E66C3.elapsedTime = Time
+
+### Score Name
+score1.label = Score 1
+score2.label = Score 2
+score3.label = Score 3
+
+### Timeout Screen
+quizTimeout_89CCD938_9FD3_0353_41D7_99A97BA0B823.title = - TIMEOUT -
+quizTimeout_89CCD938_9FD3_0353_41D7_99A97BA0B823.repeat = Repeat
+quizTimeout_89CCD938_9FD3_0353_41D7_99A97BA0B823.score = View Score
+
+## Media
+
+### Title
+video_E126F64A_C2D7_A730_41C1_16F31DCC45E8.label = EndAnimation
+panorama_1F9C8CB1_0B60_8E94_41A3_AC8558C35537.label = IMG_20240709_125009_00_edited
+panorama_1FC43138_0B61_9794_41A4_A7AB90DE7EC2.label = IMG_20240709_125034_00_edited
+panorama_1F1F668B_0B20_BD74_4171_259BE6998215.label = IMG_20240709_125147_00_edited
+panorama_1E741AC2_0BE0_8AF4_4190_21D9C2656C08.label = IMG_20240709_125236_00_edited
+video_53C77A90_5BFD_1326_41D0_69910DE178E4.label = Instruction_Card0001
+video_540643DF_5C7F_70DA_41C6_56F467A888C4.label = Intro_card
+panorama_7C415820_35C0_5257_4173_F4D7BB7003B8.label = Replacement_Scene04_HazardHunt
+panorama_8BB3A24F_9FCF_01CD_41DA_7BAE8BBF6477.label = Scene01_HazardHunt
+panorama_6380CB18_54B5_1126_41AC_A180BD2EC43B.label = Scene03_HazardHunt
+panorama_76951D0B_5708_1509_41C8_3114B273BC77.label = Scene04_hazardHunt
+
+### Video
+videolevel_768175EE_5985_4AD3_41B2_B94589180CBE.url = media/video_53C77A90_5BFD_1326_41D0_69910DE178E4_en.mp4
+videolevel_768175EE_5985_4AD3_41B2_B94589180CBE.posterURL = media/video_53C77A90_5BFD_1326_41D0_69910DE178E4_poster_en.jpg
+videolevel_76867602_5985_4953_41B4_73E1829B96F2.url = media/video_540643DF_5C7F_70DA_41C6_56F467A888C4_en.mp4
+videolevel_76867602_5985_4953_41B4_73E1829B96F2.posterURL = media/video_540643DF_5C7F_70DA_41C6_56F467A888C4_poster_en.jpg
+videolevel_7688F624_5985_4957_41BE_39733C2D1CD9.url = media/video_E126F64A_C2D7_A730_41C1_16F31DCC45E8_en.mp4
+videolevel_7688F624_5985_4957_41BE_39733C2D1CD9.posterURL = media/video_E126F64A_C2D7_A730_41C1_16F31DCC45E8_poster_en.jpg
+
+### Video Subtitles
+
+## Skin
+
+### Button
+Button_B29D2085_9FD7_013D_41C7_0273FF941C03.label = FINISH
+Button_56D8451A_5D93_715A_41D0_BAF3740C9AB9.label = FINISH
+Button_7F70C14B_5708_6D09_41AE_249F06857D39.label = FINISH
+
+### Image
+Image_7D374DB9_55B5_3166_41C1_16AB52586936.url = skin/Image_7D374DB9_55B5_3166_41C1_16AB52586936_en.png
+Image_7DD7AE08_55BD_1326_41C1_F3B61F3C31EA.url = skin/Image_7DD7AE08_55BD_1326_41C1_F3B61F3C31EA_en.png
+Image_E41F04B8_EAE2_911E_41E9_12A6B10D749B.url = skin/Image_E41F04B8_EAE2_911E_41E9_12A6B10D749B_en.png
+
+### Multiline Text
+HTMLText_E2634FD3_EAA6_AF12_41B9_3D1A0E0F08C2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:25px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:25px;font-family:'Museo 500';">Scan the QR code to share your feedback and help us improve this lab safety activity!</SPAN></SPAN></DIV></div>
+HTMLText_DDF2C3D1_EAA2_976E_41D2_8819B0841C96.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:25px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:25px;font-family:'Museo 500';">Thank you</SPAN></SPAN></DIV></div>
+HTMLText_B647CB75_9FD7_07DD_41D5_06D2A37DA7D6.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:53px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:53px;"><B>Hazard Hunt</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:33px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:33px;"><B><I>Items found</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:33px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:33px;"><B><I>{{quiz.score1.items.found}}/{{quiz.score1.item.count}}</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_6277538B_54B5_713A_41C7_9CECCF41B0B9.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:53px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:53px;"><B>Hazard Hunt</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:33px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:33px;"><B><I>Items found</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:33px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:33px;"><B><I>{{quiz.score2.items.found}}/{{quiz.score2.item.count}}</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_73A51B7D_5738_7D09_41C3_442FB07699BE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:53px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:53px;"><B>Hazard Hunt</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:33px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:33px;"><B><I>Items found</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:33px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:33px;"><B><I>{{quiz.score3.items.found}}/{{quiz.score3.item.count}}</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = SCH Lab Techniques Hazard Hunt
